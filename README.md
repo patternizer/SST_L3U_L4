@@ -1,6 +1,6 @@
-![image](https://github.com/patternizer/SST_L3U-L4/blob/master/AVHRRMTA_G_20101010.png)
+![image](https://github.com/patternizer/SST_L3U_L4/blob/master/AVHRRMTA_G_20101010.png)
 
-# SST_L3U-L4
+# SST_L3U_L4
 
 ESA SST CCI work forward modeled comparison between L3U and L4 SST variation with latitude.
 
@@ -12,8 +12,8 @@ ESA SST CCI work forward modeled comparison between L3U and L4 SST variation wit
 
 The first step is to clone the latest SST_L3U-L4 code and step into the check out directory: 
 
-    $ git clone https://github.com/patternizer/SST_L3U-L4.git
-    $ cd SST_L3U-L4
+    $ git clone https://github.com/patternizer/SST_L3U_L4.git
+    $ cd SST_L3U_L4
     
 ### Using Standard Python 
 
