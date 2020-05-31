@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/5902974/59154328-fe0c6300-8a67-11e9-9261-4d79fcf8ee94.png)
+![image](https://github.com/patternizer/SST_L3U-L4/blob/master/AVHRRMTA_G_20101010.png)
 
 # SST_L3U-L4
 
